@@ -1,6 +1,15 @@
+1 time :
+
 git init
 git add <file/folder name>
 git commit -m “Your Message”
 git branch -M master
 git remote add origin <git URL>
 git push -u origin master
+
+ 
+2time  Onwards :
+
+git add <file/folder name>
+git commit -m “Your Message”
+git push
